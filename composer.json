@@ -1,6 +1,7 @@
 {
     "name": "douglasor/test-ci",
     "description": "CI Test",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
