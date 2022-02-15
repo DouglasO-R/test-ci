@@ -1,5 +1,6 @@
 {
     "name": "douglasor/test-ci",
+    "description": "CI Test",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
